@@ -1,5 +1,5 @@
 
-void my_conflic()
+void myconflic_change()
 {
 	printf(wassup)
 }
